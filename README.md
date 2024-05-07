@@ -4,7 +4,5 @@
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=cc5103&theme=light&hide_border=true" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=cc5103&theme=default&hide_border=true" />
   </picture>
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
